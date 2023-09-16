@@ -13,11 +13,3 @@ Easily convert spoken words to text and instantly share across various social me
 <p>
     <img src="https://github.com/asaoluelijah/say-it/blob/master/img/screenshots/mobile.png?raw=true" width="200" alt="Desktop View 2">
 </p>
-
-# License
-
-This project is open source and available under the [GNU GENERAL PUBLIC LICENSE](https://github.com/asaoluelijah/say-it/blob/master/LICENSE).
-
-# Author
-
-Made with ❤ by Asaolu Elijah
